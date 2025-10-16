@@ -1,0 +1,21 @@
+{
+  "sustain_enabled": false,
+  "velocity_enabled": false,
+  "tempo": 100.0,
+  "no_doubles": true,
+  "hold_keys": false,
+  "keyboard_controls_enabled": true,
+  "keyboard_bindings": {
+    "f1": "play",
+    "f2": "pause",
+    "f3": "stop",
+    "f4": "slow_down",
+    "f5": "speed_up",
+    "f6": "toggle_sustain",
+    "f7": "toggle_velocity"
+  },
+  "window_targeting_enabled": false,
+  "target_window": null,
+  "use_midi_output": false,
+  "midi_device": null
+}
