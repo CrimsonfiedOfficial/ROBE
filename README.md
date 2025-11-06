@@ -281,6 +281,3 @@ The backend runs on port 8000, and the frontend development server runs on port 
 
 Open Source - See LICENSE file for details
 
-## Credits
-
-Inspired by nanoMIDI - A MIDI macro player for rhythm games
