@@ -1,6 +1,8 @@
 # Thank you v0.dev for a less buggier frontend :pray: (yes i coded everything myself, raven your wrong about claude xd)
 credit is due where diue is credit idk
 
+required: python and node.js
+
 CURRENTLY THE TUTORIAL BELOW IS BROKEN, IF YOU ARE MAC THEN..
 <img width="1179" height="563" alt="image" src="https://github.com/user-attachments/assets/10a0b23e-1d7e-4014-b0e8-838c25328e2a" />
 run 
